@@ -1,0 +1,44 @@
+
+https://blog.csdn.net/weixin_44086593/article/details/87879262
+sudo apt-get install libasound-dev portaudio19-dev libportaudio2 libportaudiocpp0
+pip install pyaudio
+
+sudo wget http://downloads.sourceforge.net/swig/swig-3.0.10.tar.gz &&
+sudo tar -xvzf swig-3.0.10.tar.gz &&
+cd swig-3.0.10/ &&   
+./configure --prefix=/usr                  \
+        --without-clisp                    \
+        --without-maximum-compile-warnings &&
+sudo make &&
+sudo make install &&
+sudo install -v -m755 -d /usr/share/doc/swig-3.0.10 &&
+sudo cp -v -R Doc/* /usr/share/doc/swig-3.0.10 &&
+cd ..
+
+
+sudo apt-get install alsa-utils pulseaudio
+
+sudo apt-get install libatlas-base-dev
+
+cd snowboy-master/swig/Python3
+sudo make
+
+配置修改
+打开/snowboy/snowboy/examples/Python3/snowboydecoder.py，修改
+from . import snowboydetec
+改为:
+import snowboydetec
+
+
+7.复制所需文件到自己的工程目录
+将该目录下的所有文件都复制（除了Makefile）
+/snowboy/snowboy/swig/Python3/
+
+将该目录下的"resource"文件夹复制
+/snowboy/snowboy/
+
+将该目录下的"snowboydecoder.py"复制
+/snowboy/snowboy/examples/Python3/
+
+ 
+

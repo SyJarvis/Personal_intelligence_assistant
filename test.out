@@ -1,0 +1,140 @@
+nohup: ignoring input
+INFO:snowboy:Keyword 1 detected at time: 2020-05-20 04:05:23
+please say something
+you said:你还好吗
+xiaosi: 我没事呀，走了个神而已
+ALSA lib pcm.c:8306:(snd_pcm_recover) underrun occurred
+ALSA lib pcm.c:8306:(snd_pcm_recover) underrun occurred
+please say something
+listening timed out while waiting for phrase to start
+INFO:snowboy:Keyword 1 detected at time: 2020-05-20 04:05:59
+ALSA lib pcm.c:8306:(snd_pcm_recover) underrun occurred
+ALSA lib pcm.c:8306:(snd_pcm_recover) underrun occurred
+ALSA lib pcm.c:8306:(snd_pcm_recover) underrun occurred
+ALSA lib pcm.c:8306:(snd_pcm_recover) underrun occurred
+ALSA lib pcm.c:8306:(snd_pcm_recover) underrun occurred
+please say something
+you said:你在干什么
+xiaosi: 正在拼命学习呢，好多新知识要学习，好兴奋的
+ALSA lib pcm.c:8306:(snd_pcm_recover) underrun occurred
+ALSA lib pcm.c:8306:(snd_pcm_recover) underrun occurred
+ALSA lib pcm.c:8306:(snd_pcm_recover) underrun occurred
+ALSA lib pcm.c:8306:(snd_pcm_recover) underrun occurred
+ALSA lib pcm.c:8306:(snd_pcm_recover) underrun occurred
+ALSA lib pcm.c:8306:(snd_pcm_recover) underrun occurred
+please say something
+you said:苹果
+xiaosi: 苹果
+please say something
+listening timed out while waiting for phrase to start
+INFO:snowboy:Keyword 1 detected at time: 2020-05-20 04:07:12
+ALSA lib pcm.c:8306:(snd_pcm_recover) underrun occurred
+please say something
+you said:今天天气好吗
+xiaosi: 是吗？那你的心情一定特别愉快吧
+ALSA lib pcm.c:8306:(snd_pcm_recover) underrun occurred
+ALSA lib pcm.c:8306:(snd_pcm_recover) underrun occurred
+ALSA lib pcm.c:8306:(snd_pcm_recover) underrun occurred
+ALSA lib pcm.c:8306:(snd_pcm_recover) underrun occurred
+ALSA lib pcm.c:8306:(snd_pcm_recover) underrun occurred
+ALSA lib pcm.c:8306:(snd_pcm_recover) underrun occurred
+ALSA lib pcm.c:8306:(snd_pcm_recover) underrun occurred
+ALSA lib pcm.c:8306:(snd_pcm_recover) underrun occurred
+ALSA lib pcm.c:8306:(snd_pcm_recover) underrun occurred
+ALSA lib pcm.c:8306:(snd_pcm_recover) underrun occurred
+ALSA lib pcm.c:8306:(snd_pcm_recover) underrun occurred
+please say something
+you said:今天天气怎么样
+xiaosi: 东莞，多云，当前温度26°，空气质量良，东风。明天大雨。
+please say something
+you said:明天梅州会下雨吗
+xiaosi: 梅州，晴，当前温度22°，空气质量优，西北风。明天阵雨转中雨。
+ALSA lib pcm.c:8306:(snd_pcm_recover) underrun occurred
+please say something
+you said:梅州的PM2.5多少
+xiaosi: 都在梅州，是老乡哦
+ALSA lib pcm.c:8306:(snd_pcm_recover) underrun occurred
+ALSA lib pcm.c:8306:(snd_pcm_recover) underrun occurred
+ALSA lib pcm.c:8306:(snd_pcm_recover) underrun occurred
+ALSA lib pcm.c:8306:(snd_pcm_recover) underrun occurred
+ALSA lib pcm.c:8306:(snd_pcm_recover) underrun occurred
+ALSA lib pcm.c:8306:(snd_pcm_recover) underrun occurred
+ALSA lib pcm.c:8306:(snd_pcm_recover) underrun occurred
+ALSA lib pcm.c:8306:(snd_pcm_recover) underrun occurred
+please say something
+you said:深圳天气怎么样
+xiaosi: 深圳，多云，当前温度26°，空气质量优，北风。明天大雨转暴雨。
+please say something
+you said:广州天气怎么样
+xiaosi: 广州，多云，当前温度26°，空气质量优，东风。明天大雨转暴雨。
+ALSA lib pcm.c:8306:(snd_pcm_recover) underrun occurred
+ALSA lib pcm.c:8306:(snd_pcm_recover) underrun occurred
+ALSA lib pcm.c:8306:(snd_pcm_recover) underrun occurred
+ALSA lib pcm.c:8306:(snd_pcm_recover) underrun occurred
+ALSA lib pcm.c:8306:(snd_pcm_recover) underrun occurred
+ALSA lib pcm.c:8306:(snd_pcm_recover) underrun occurred
+ALSA lib pcm.c:8306:(snd_pcm_recover) underrun occurred
+ALSA lib pcm.c:8306:(snd_pcm_recover) underrun occurred
+please say something
+you said:关闭窗帘
+xiaosi: 这是你的想法？我晓得了
+ALSA lib pcm.c:8306:(snd_pcm_recover) underrun occurred
+please say something
+you said:可以连上小爱吗
+xiaosi: 换个简单的问我吧！
+ALSA lib pcm.c:8306:(snd_pcm_recover) underrun occurred
+ALSA lib pcm.c:8306:(snd_pcm_recover) underrun occurred
+ALSA lib pcm.c:8306:(snd_pcm_recover) underrun occurred
+ALSA lib pcm.c:8306:(snd_pcm_recover) underrun occurred
+ALSA lib pcm.c:8306:(snd_pcm_recover) underrun occurred
+ALSA lib pcm.c:8306:(snd_pcm_recover) underrun occurred
+ALSA lib pcm.c:8306:(snd_pcm_recover) underrun occurred
+ALSA lib pcm.c:8306:(snd_pcm_recover) underrun occurred
+ALSA lib pcm.c:8306:(snd_pcm_recover) underrun occurred
+ALSA lib pcm.c:8306:(snd_pcm_recover) underrun occurred
+ALSA lib pcm.c:8306:(snd_pcm_recover) underrun occurred
+ALSA lib pcm.c:8306:(snd_pcm_recover) underrun occurred
+ALSA lib pcm.c:8306:(snd_pcm_recover) underrun occurred
+please say something
+you said:你在哪儿
+xiaosi: 远在天边，近在眼前
+please say something
+you said:我打算去睡觉了
+xiaosi: 去睡吧，别累坏了
+ALSA lib pcm.c:8306:(snd_pcm_recover) underrun occurred
+ALSA lib pcm.c:8306:(snd_pcm_recover) underrun occurred
+please say something
+you said:现在几点了
+xiaosi: 2019年02月20日星期三下午1:54
+please say something
+you said:温度
+xiaosi: 34度
+ALSA lib pcm.c:8306:(snd_pcm_recover) underrun occurred
+ALSA lib pcm.c:8306:(snd_pcm_recover) underrun occurred
+ALSA lib pcm.c:8306:(snd_pcm_recover) underrun occurred
+ALSA lib pcm.c:8306:(snd_pcm_recover) underrun occurred
+ALSA lib pcm.c:8306:(snd_pcm_recover) underrun occurred
+ALSA lib pcm.c:8306:(snd_pcm_recover) underrun occurred
+ALSA lib pcm.c:8306:(snd_pcm_recover) underrun occurred
+ALSA lib pcm.c:8306:(snd_pcm_recover) underrun occurred
+please say something
+err_no:语音服务器后端识别出错问题
+INFO:snowboy:Keyword 1 detected at time: 2020-05-20 04:10:03
+ALSA lib pcm.c:8306:(snd_pcm_recover) underrun occurred
+ALSA lib pcm.c:8306:(snd_pcm_recover) underrun occurred
+please say something
+you said:温度
+xiaosi: 34度
+ALSA lib pcm.c:8306:(snd_pcm_recover) underrun occurred
+ALSA lib pcm.c:8306:(snd_pcm_recover) underrun occurred
+ALSA lib pcm.c:8306:(snd_pcm_recover) underrun occurred
+ALSA lib pcm.c:8306:(snd_pcm_recover) underrun occurred
+ALSA lib pcm.c:8306:(snd_pcm_recover) underrun occurred
+ALSA lib pcm.c:8306:(snd_pcm_recover) underrun occurred
+ALSA lib pcm.c:8306:(snd_pcm_recover) underrun occurred
+ALSA lib pcm.c:8306:(snd_pcm_recover) underrun occurred
+please say something
+you said:梅州温度
+xiaosi: 梅州于1988年设市，位于广东省东北部，东部与福建省龙岩市和漳州市交界，南部与潮州市、揭阳市、汕尾市毗邻，西部与河源市接壤，北部与江西省赣州市相连。梅州是客家人最主要的集散中心和聚居地。
+please say something
+listening timed out while waiting for phrase to start
